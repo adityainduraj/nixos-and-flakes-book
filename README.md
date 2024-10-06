@@ -1,14 +1,12 @@
-![](./docs/public/nixos-and-flakes-book.webp)
-
-# NixOS & Flakes Book :hammer_and_wrench: :heart:
+# NixOS & Flakes Book :hammer_and_wrench: 
 
 Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then
 you've come to the right place!
 
-An unofficial and opinionated NixOS & Flakes :book: for beginners:
+An unofficial and opinionated NixOS & Flakes book for beginners:
 https://nixos-and-flakes.thiscute.world/
 
-中文版: https://nixos-and-flakes.thiscute.world/zh/
+https://nixos-and-flakes.thiscute.world/zh/
 
 > If you're using macOS,
 > [ryan4yin/nix-darwin-kickstarter](https://github.com/ryan4yin/nix-darwin-kickstarter)
